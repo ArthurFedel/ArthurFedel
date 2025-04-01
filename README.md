@@ -1,36 +1,33 @@
-# ArthurFedel
- <div align="center">
+# ✨ Arthur Muniz Fedel 🚀  
+## Estudante de **Sistemas de Informação** | FIAP  
+
+<div align="center">
   <img height="250" src="https://cdn.discordapp.com/attachments/810907933650845696/1356737846341406740/Git_gif.jpg?ex=67eda815&is=67ec5695&hm=6ab1bafb46f378fec023b9e536d8932041f38aea5ecdcef83495d5b0802791f1&"  />
 </div>
 
-###
-
+### 📱 Conecte-se comigo!
 <div align="center">
   <a href="https://www.linkedin.com/in/arthurfedel/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
   <a href="https://www.instagram.com/arthurfedel/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&style=for-the-badge" height="25" alt="instagram logo"  />
+  </a>
+  <a href="https://github.com/ArthurFedel" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&style=for-the-badge" height="25" alt="github logo"  />
   </a>
 </div>
 
-###
+### 👩‍💻 Sobre Mim
 
-<h1 align="center">Arthur Fedel | Estudante de SI</h1>
+📍 **São Paulo - SP**  
+🔭 **Sempre buscando melhorar e aprender.**  
+📚 **Estudante de Sistemas de Informação** | FIAP  
+⚡ **Vamos nos conectar no LinkedIn!**
 
-###
+---
 
-<h3 align="left">👩‍💻  Sobre Mim</h3>
-
-###
-
-<p align="left">📍 São Paulo - SP<br>🔭 Sempre buscando melhorar<br>📚 Sistemas de Informação |  FIAP<br>⚡ Vamos nos conectar no LinkedIn!</p>
-
-###
-
-<h3 align="left">🛠 Tecnologias e Ferramentas</h3>
-
-###
+### 🛠 Tecnologias e Ferramentas
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
@@ -46,19 +43,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
 </div>
 
-###
-
-<h3 align="left">🔥   Minhas Estatísticas:</h3>
-
-###
-
-
-
-###
+### 🔥 Minhas Estatísticas:
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ArthurFedel&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ArthurFedel&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=ArthurFedel&show_icons=true&hide_title=true&count_private=true&theme=radical" alt="Arthur Muniz Fedel stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurFedel&layout=compact&theme=radical" alt="Arthur Muniz Fedel top languages" />
 </div>
 
-###
