@@ -1,4 +1,4 @@
-# ✨ Arthur Muniz Fedel 🚀  
+#  Arthur Muniz Fedel 🚀  
 ## Estudante de **Sistemas de Informação** | FIAP  
 
 <div align="center">
